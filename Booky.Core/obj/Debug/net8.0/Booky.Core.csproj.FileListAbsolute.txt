@@ -1,0 +1,11 @@
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\bin\Debug\net8.0\Booky.Core.deps.json
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\bin\Debug\net8.0\Booky.Core.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\bin\Debug\net8.0\Booky.Core.pdb
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\obj\Debug\net8.0\Booky.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\obj\Debug\net8.0\Booky.Core.AssemblyInfoInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\obj\Debug\net8.0\Booky.Core.AssemblyInfo.cs
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\obj\Debug\net8.0\Booky.Core.csproj.CoreCompileInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\obj\Debug\net8.0\Booky.Core.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\obj\Debug\net8.0\refint\Booky.Core.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\obj\Debug\net8.0\Booky.Core.pdb
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Core\obj\Debug\net8.0\ref\Booky.Core.dll

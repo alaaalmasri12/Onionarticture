@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S3itbHPPwWM1ubx25sJbvhpubmUXsPwLNx4mhLIw5Yc=",
+  "Source": "Booky.API",
+  "BasePath": "_content/Booky.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

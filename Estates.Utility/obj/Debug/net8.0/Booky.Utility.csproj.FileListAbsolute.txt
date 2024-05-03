@@ -1,0 +1,11 @@
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\bin\Debug\net8.0\Booky.Utility.deps.json
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\bin\Debug\net8.0\Booky.Utility.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\bin\Debug\net8.0\Booky.Utility.pdb
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\obj\Debug\net8.0\Booky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\obj\Debug\net8.0\Booky.Utility.AssemblyInfoInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\obj\Debug\net8.0\Booky.Utility.AssemblyInfo.cs
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\obj\Debug\net8.0\Booky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\obj\Debug\net8.0\Booky.Utility.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\obj\Debug\net8.0\refint\Booky.Utility.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\obj\Debug\net8.0\Booky.Utility.pdb
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Estates.Utility\obj\Debug\net8.0\ref\Booky.Utility.dll

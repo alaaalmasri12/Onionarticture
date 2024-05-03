@@ -1,0 +1,44 @@
+﻿
+<div class="mt-3 ">
+    @*     <h2>@ViewData["vdMessage"]</h2>
+    <h4>@ViewBag.vbmessage</h4> *@
+    <div class="container-fluid">
+        <div class="row pt-4 pb-3">
+            <div class="col-6">
+                <h2 class="text-primary">estate List</h2>
+            </div>
+            <div class="col-6 text-end text-right">
+                <a class="btn btn-warning" asp-action="Create" asp-controller="Eastate">Create  Eastate</a>
+            </div>
+        </div>
+
+
+        <div class="container-fluid">
+            <div class="block margin-bottom-sm">
+                <table class="table" id="myTable">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Details</th>
+                            <th>Rate</th>
+                            <th>sqft</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function(){
+            loadata();
+        })
+    </script>
+}

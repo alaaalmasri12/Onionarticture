@@ -1,0 +1,17 @@
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\bin\Debug\net8.0\Booky.Repostiory.deps.json
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\bin\Debug\net8.0\Booky.Repostiory.runtimeconfig.json
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\bin\Debug\net8.0\Booky.Repostiory.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\bin\Debug\net8.0\Booky.Repostiory.pdb
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\bin\Debug\net8.0\Booky.Core.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\bin\Debug\net8.0\Booky.Core.pdb
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\Booky.Repostiory.csproj.AssemblyReference.cache
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\Booky.Repostiory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\Booky.Repostiory.AssemblyInfoInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\Booky.Repostiory.AssemblyInfo.cs
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\Booky.Repostiory.csproj.CoreCompileInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\Booky.Re.91A03816.Up2Date
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\Booky.Repostiory.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\refint\Booky.Repostiory.dll
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\Booky.Repostiory.pdb
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\Booky.Repostiory.genruntimeconfig.cache
+C:\Users\alaaa\OneDrive\Desktop\onionproject\OnionBooky\Booky.Repostiory\obj\Debug\net8.0\ref\Booky.Repostiory.dll
